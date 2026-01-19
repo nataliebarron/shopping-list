@@ -1,0 +1,6 @@
+- Coffee
+- Eggs
+- Steak
+- Avocado 
+- Carrots
+- Hummus 
