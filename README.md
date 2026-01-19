@@ -4,3 +4,6 @@
 - Avocado 
 - Carrots
 - Hummus 
+- Candy
+- Creamer
+- Ice cream
